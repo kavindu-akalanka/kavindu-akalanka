@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at Nanosoft Globale and actively learning and working with the following technologies:
+ 🔭 I’m currently working at Nanosoft Globale and actively learning and working with the following technologies:
   
 - Azure DevOps
 - Terraform
@@ -10,10 +10,10 @@
 - Jenkins
 
 ## Learning
-- 🌱 I’m currently learning and improving my skills in Azure DevOps, Terraform, and Ansible.
+ 🌱 I’m currently learning and improving my skills in Azure DevOps, Terraform, and Ansible.
 
 ## Contact
-- 📫 How to reach me: You can reach me at kavindu98akalanka@gmail.com .
+ 📫 How to reach me: You can reach me at kavindu98akalanka@gmail.com .
 
 
 <!--
