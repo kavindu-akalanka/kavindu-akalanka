@@ -1,4 +1,4 @@
-<img align="center" alt="Banner"  src="Resources/DevOps-Header.png">
+<img align="center" alt="Banner"  src="Resources/DevOps-Header.jpg">
 
 <br><br>
 
