@@ -4,7 +4,7 @@
 
 <!-- Header Section -->
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&color=36BCF7FF&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Akalanka+Jayasinghe!;" /></h1>
-<h3 align="center"><font face="Arial"> for a passionate DevOps Engineer from SriLanka, working on Cloud and DevOps for 1 years now. </font></h3>
+<h3 align="center"><font face="Arial"> Hard working and a passionate DevOps Engineer from SriLanka, working on Cloud and DevOps for 1 years now. </font></h3>
 
 #
 <img align="right" alt="Coding" width="400" src="Resources/user1.gif">
